@@ -74,10 +74,10 @@ module.exports = {
   VERSION : process.env.VERSION || "1.3.8",
   caption : global.caption || "『GITHUB • Tohidkhan6332" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
 
-  author : process.env.PACK_AUTHER|| "",
-  packname: process.env.PACK_NAME || "",
+  author : process.env.PACK_AUTHER|| "MR TOHID",
+  packname: process.env.PACK_NAME || "MR TOHID",
   botname : process.env.BOT_NAME  || "TOHID-KHAN",
-  ownername:process.env.OWNER_NAME|| "tohid",
+  ownername:process.env.OWNER_NAME|| "𝕄𝕣     𝕋    𝕠    𝕙    𝕚    𝕕",
 
 
   errorChat : process.env.ERROR_CHAT || "",
